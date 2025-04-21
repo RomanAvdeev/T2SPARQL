@@ -1,0 +1,12 @@
+[
+    {
+      "question": "What is the religious affiliation of Neungin High School?",
+      "dataset": "https://www.dbpedia.org/",
+      "query": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Neungin_High_School> <http://dbpedia.org/property/religiousAffiliation> ?uri } "
+    },
+    {
+      "question": "Who is the relative of Jim Farley (businessman) ?",
+      "dataset": "https://www.dbpedia.org/",
+      "query": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Jim_Farley_(businessman)> <http://dbpedia.org/property/relatives> ?uri } "
+    }
+  ]
