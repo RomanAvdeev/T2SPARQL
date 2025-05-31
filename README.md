@@ -34,7 +34,8 @@ authors:
 
 
 ### Architecture
-![image](https://github.com/user-attachments/assets/2fd612ae-c6a1-453a-9072-c3477c6e491b)
+![sparql_arch](https://github.com/user-attachments/assets/3c9a783c-e3e5-4643-8a70-0c1e263c67bd)
+
 
 
    
