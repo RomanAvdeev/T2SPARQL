@@ -11,7 +11,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 app = FastAPI(title="TEXT2SPARQL API")
 
 # API-ключ для OpenAI
-api_key = "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"
+api_key = ""
 
 # Известные датасеты
 KNOWN_DATASETS = [
