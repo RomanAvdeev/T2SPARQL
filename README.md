@@ -34,7 +34,7 @@ authors:
 
 
 ### Architecture
-![sparql_arch](<img width="994" height="403" alt="image" src="https://github.com/user-attachments/assets/80911574-5b5a-4bf3-8498-168b209ac5ab" />)
+![sparql_arch](<img width="1004" height="423" alt="Снимок экрана 2026-02-09 в 19 58 23" src="https://github.com/user-attachments/assets/ccf18e95-f729-4766-bbc3-5dad108ee764" />)
 
 
 
